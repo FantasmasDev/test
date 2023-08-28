@@ -28,6 +28,7 @@
         >
 
         <Button
+            android:id="@+id/search_button"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_marginBottom="8dp"
@@ -44,6 +45,7 @@
             app:cornerRadius="16dp" />
 
         <Button
+            android:id="@+id/library_button"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_marginTop="8dp"
@@ -61,6 +63,7 @@
             app:cornerRadius="16dp" />
 
         <Button
+            android:id="@+id/setting_button"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_marginTop="8dp"

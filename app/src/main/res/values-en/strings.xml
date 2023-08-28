@@ -5,7 +5,6 @@
     <string name="settings_button">Settings</string>
     <string name="dark_theme_switcher">Dark theme</string>
     <string name="share_app">Share app</string>
-    <string name="share_app">S</string>
     <string name="support_button">Write to support</string>
     <string name="terms_of_use">Terms of use</string>
 </resources>

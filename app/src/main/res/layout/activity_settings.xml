@@ -13,6 +13,7 @@
         android:paddingStart="4dp"
         android:paddingEnd="54dp">
         <ImageButton
+            android:id="@+id/setting_home_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:padding="12dp"
